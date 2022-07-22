@@ -1,0 +1,11 @@
+public class Tesoureiro extends Funcionario {
+
+    public Gerente(String nome, String cpf, double salario) {
+        super(nome, cpf, salario);
+    }
+
+    @Override
+    public double getBonificacao() {
+        return this.getSalario() / 2
+    }
+}
