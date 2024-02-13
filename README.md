@@ -1,6 +1,6 @@
-# OOP-java
+# Programação Orientada a Objetos
 
-Repositório para armazenar a atividade realizado no aprendizado de Orientação a Objetos
+Repositório para armazenar a atividade realizado no aprendizado de Programação Orientada a Objetos
 
 ## 📋 Ferramentas
 
